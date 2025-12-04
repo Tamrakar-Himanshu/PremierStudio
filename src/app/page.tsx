@@ -33,7 +33,7 @@ export default function Home() {
     {/* Testimonials Section */}
     <TestimonialsSection /> 
     {/* Footer Section */}
-    {/* <FooterSection /> */}
+    <FooterSection />   
     </div>
   );
 }

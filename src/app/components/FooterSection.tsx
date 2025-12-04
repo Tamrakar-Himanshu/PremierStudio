@@ -254,7 +254,7 @@ export default function FooterSection() {
                 </div>
 
                 {/* Email Input and Subscribe */}
-                <form onSubmit={handleSubscribe} className="flex flex-col md:flex-row gap-4 w-full max-w-md">
+                <form onSubmit={handleSubscribe} className="flex flex-col md:flex-row gap-4 w-full max-w-md ">
                   <input
                     type="email"
                     value={email}
